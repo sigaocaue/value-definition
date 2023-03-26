@@ -14,11 +14,6 @@
 		"strict": true,
 		"strictPropertyInitialization": false,
 		"skipLibCheck": true,
-		"esModuleInterop": true,
-		"paths": {
-			"@test/*": [
-				"../test/*"
-			]
-		}
+		"esModuleInterop": true
 	}
 }
